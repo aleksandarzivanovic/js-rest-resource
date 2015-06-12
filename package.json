@@ -1,0 +1,26 @@
+{
+  "name": "rest-resource",
+  "version": "0.0.1",
+  "description": "Highly opinionated rest resource",
+  "main": "resource.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:VivaldiShop/js-rest-resource.git"
+  },
+  "keywords": [
+    "rest",
+    "resource"
+  ],
+  "author": "Igor Pantovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VivaldiShop/js-rest-resource/issues"
+  },
+  "dependencies": {
+    "reqwest": "~1.1.5",
+    "extendify": "~0.1.0"
+  }
+}
